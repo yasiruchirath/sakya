@@ -29,7 +29,7 @@ export default function Home() {
     },
     {
       image: "/english.jpg",
-      title: "ඉංග්‍රීසි",
+      title: "ඉංග්‍රීසිhugubygygsssss",
       tutor: "මලින් ප්‍රියනාත්",
       color: "from-blue-400 to-indigo-500",
     },
