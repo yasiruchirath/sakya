@@ -23,7 +23,7 @@ export default function Home() {
   const subjects = [
     {
       image: "/sinhala.jpg",
-      title: "සිංහල භාෂාව හා සාහිත්‍යය",
+      title: "සිංහල භාෂාව bhs සාහිත්‍යය",
       tutor: "කසුන් වෙඩිසිංහ",
       color: "from-amber-400 to-orange-500",
     },
